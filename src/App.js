@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I DO THE DASRLHT:WLFD :F ALL DAY LONG!!!!!!!
         </a>
       </header>
     </div>
